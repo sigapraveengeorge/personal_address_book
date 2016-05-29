@@ -3,6 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+After cloning the application dont forget to run the migrations and seed command to create the dummy data for the appliction - Praveen George
+
 Things you may want to cover:
 
 * Ruby version
