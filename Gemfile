@@ -26,7 +26,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 #bootstrap sass
 # gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # gem 'bootstrap-sass','3.3.6'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '>= 3.2'
 
 #installfaker gem to allow dummy data to be added
